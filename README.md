@@ -1,42 +1,53 @@
-# Basic-Portfolio
+# 🌐 Personal Portfolio Website
 
-**Description**:
-Designed and developed a responsive personal portfolio website to showcase my skills, projects, experience, and contact information. The site is fully mobile-optimized and visually engaging, built with modern HTML, CSS, and JavaScript.
+A responsive and interactive personal portfolio website built using HTML, CSS, and JavaScript. The site highlights my skills, projects, experience, and contact information with a clean, user-friendly design.
+
+## 🚀 Features
+
+- **Responsive Navbar** with hamburger menu for mobile view
+- **Hero Section** introducing the developer with a personal image
+- **About Section** detailing profile summary and academic background
+- **Tabbed Interface** to toggle between:
+  - Skills (C++, Python, Web Development)
+  - Experience (Vivado, Python, Web Projects)
+  - Education (NITK, Chaitanya, 10th)
+- **Services Section** for:
+  - Web Design
+  - UI/UX Design
+  - App Design
+- **Project Portfolio** including:
+  - 🎬 Movie Recommendation System using TMDb dataset and cosine similarity
+  - 🏅 Sports Person Image Classifier using OpenCV and GridSearch
+  - 🗺️ Campus Navigation Tool using Dijkstra's algorithm
+- **Contact Section** with:
+  - Email and phone
+  - Social media icons
+  - Downloadable CV
+  - Integrated contact form connected to Google Sheets using Google Apps Script
+
+## 🛠️ Tech Stack
+
+- **Frontend**: HTML5, CSS3, JavaScript
+- **Icons**: Font Awesome
+- **Form Handling**: Google Apps Script
+- **Design**: Mobile-first, clean and accessible
+
+## 📈 Future Improvements
+
+- Add smooth animations with AOS or Framer Motion
+- Backend integration with Node.js or Firebase
+- Add a technical blog section
+- Light/Dark theme toggle
+- Section-wise scroll animations
+
+
+## 📬 Contact
+
+Feel free to reach out via:
+
+- 📧 sanket.sakharenitk@gmail.com  
+- 📱 Sanket63112  
 
 ---
 
-### 🔧 **Features**:
-
-* **Responsive Navbar** with hamburger menu for smaller screens.
-* **Hero Section** introducing the developer and location with image integration.
-* **About Section** outlining academic profile, interests, and career focus.
-* **Tabbed Interface** for switching between skills, experience, and education.
-* **Services Section** detailing areas of expertise like web design, UI/UX, and app design.
-* **Portfolio/Projects Section** with interactive hover effects and brief project descriptions:
-
-  * *Movie Recommendation System*
-  * *Sports Person Image Classifier*
-  * *Campus Navigation Tool*
-* **Contact Section** with email, phone, and social media links.
-* **Contact Form** connected to Google Sheets using Google Apps Script for real-time submission.
-* **Downloadable CV Button**
-* **Footer with Copyright**
-
----
-
-### 🧰 **Technologies Used**:
-
-* **Frontend**: HTML5, CSS3, JavaScript
-* **Icons**: Font Awesome
-* **Google Apps Script**: To store contact form responses
-* **Design**: Mobile-first layout with intuitive UI/UX practices
-
----
-
-### 🔗 **Future Enhancements**:
-
-* Add animations with libraries like AOS or Framer Motion.
-* Integrate backend (e.g., Node.js or Firebase) for project data.
-* Add blog section to display technical writing.
-* Light/Dark theme toggle.
-
+© 2024 Sanket Sakhare — Built with ❤️ using YouTube tutorials and personal effort
